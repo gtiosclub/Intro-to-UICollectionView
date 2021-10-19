@@ -13,6 +13,7 @@
 		CEDEF8B1271E6B7600755843 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CEDEF8AF271E6B7600755843 /* Main.storyboard */; };
 		CEDEF8B3271E6B7800755843 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CEDEF8B2271E6B7800755843 /* Assets.xcassets */; };
 		CEDEF8B6271E6B7800755843 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CEDEF8B4271E6B7800755843 /* LaunchScreen.storyboard */; };
+		CEDEF8BE271E6C3100755843 /* CustomCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEDEF8BD271E6C3100755843 /* CustomCollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		CEDEF8B2271E6B7800755843 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CEDEF8B5271E6B7800755843 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CEDEF8B7271E6B7800755843 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CEDEF8BD271E6C3100755843 /* CustomCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomCollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				CEDEF8B2271E6B7800755843 /* Assets.xcassets */,
 				CEDEF8B4271E6B7800755843 /* LaunchScreen.storyboard */,
 				CEDEF8B7271E6B7800755843 /* Info.plist */,
+				CEDEF8BD271E6C3100755843 /* CustomCollectionViewCell.swift */,
 			);
 			path = iOSClub_UICollectionView;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 				CEDEF8AE271E6B7600755843 /* ViewController.swift in Sources */,
 				CEDEF8AA271E6B7600755843 /* AppDelegate.swift in Sources */,
 				CEDEF8AC271E6B7600755843 /* SceneDelegate.swift in Sources */,
+				CEDEF8BE271E6C3100755843 /* CustomCollectionViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
